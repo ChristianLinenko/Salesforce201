@@ -36,7 +36,6 @@ public without sharing class CaseUtilities
                     {
                         c.OwnerId = eyeDee;
                         System.debug('Assigning case to queue: ' + queueName);
-                        break;
                     }
                 }
             }
